@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+#HeadingConvo{
+  margin-top: 100px;
+}
+
+#inputName{
+  margin-top: 10px;
+  padding: 14px 20px;
+}
+
+#inputRoom{
+  margin-top: 10px;
+  padding: 14px 20px;
+}
+
+#inputButton{
+  margin-top: 20px;
+  padding: 14px 20px;
+  background-color: #00BFFF;
+  /* color: white; */
+}
